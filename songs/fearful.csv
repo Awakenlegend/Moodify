@@ -1,31 +1,25 @@
-,Name,Album,Artist
-0,Fearless Pt. II,NCS: The Best of 2017,Various Artists
-1,Fearless,Fearless,Lost Sky
-2,Ark,Ark,Star Party
-3,Supersonic,Supersonic,Rob Gasser
-4,Fearless Pt. II,NCS: The Best of 2017,Various Artists
-5,Mortals,Mortals,Warriyo
-6,Horizon,Dying Light (Original Game Soundtrack),Pawel Blaszczak
-7,Fearless,Fearless,Lost Sky
-8,Ark,Ark,Star Party
-9,Ark,Ark,Star Party
-10,Mortals,Mortals,Warriyo
-11,Horizon,Dying Light (Original Game Soundtrack),Pawel Blaszczak
-12,Supersonic,Supersonic,Rob Gasser
-13,Feel Good,Feel Good,Syn Cole
-14,Fearless Pt. II,NCS: The Best of 2017,Various Artists
-15,Horizon,Dying Light (Original Game Soundtrack),Pawel Blaszczak
-16,Mortals,Mortals,Warriyo
-17,Fearless,Fearless,Lost Sky
-18,Blank,Blank,Disfigure
-19,Symbolism,Symbolism,Electro-Light
-20,Symbolism,Symbolism,Electro-Light
-21,Blank,Blank,Disfigure
-22,On & On,On & On,Cartoon
-23,On & On,On & On,Cartoon
-24,Invincible,Invincible,Deaf Kev
-25,Invincible,Invincible,Deaf Kev
-26,Sky High,Sky High,Elektronomia
-27,Nekozilla,NCS: Infinity,Various Artists
-28,Firefly,Firefly,Jim Yosef
-29,Hope (Original Mix),Hope,Tobu
+ID,Name,Album,Artist,Link
+0,Fearless Pt. II,NCS: The Best of 2017,Lost Sky,https://open.spotify.com/track/1bM0muE7oG1jKcXG9t3OqN
+1,Fearless,Fearless,Lost Sky,https://open.spotify.com/track/3iB6vRzJj1aLZ5VnBdnm1X
+2,Ark,Ark,Ship Wrek,https://open.spotify.com/track/5m7Tn7PUMQMQKnJH2Tq5HU
+3,Supersonic,Supersonic,Rob Gasser,https://open.spotify.com/track/1oVYSkpYzN9ZC2bT7hYbZs
+4,Mortals,Mortals,Warriyo,https://open.spotify.com/track/7h3Q9A8zE8x2nTTN5x4V2p
+5,Horizon,Dying Light (Original Game Soundtrack),Pawel Blaszczak,https://open.spotify.com/track/2uy1NkOipnM4AYe7WJx3pL
+6,Blank,Blank,Disfigure,https://open.spotify.com/track/2X8OmcA2aodmhQp3XHzsJt
+7,Symbolism,Symbolism,Electro-Light,https://open.spotify.com/track/6RnwkUib87sL3BqP0HZl89
+8,On & On,On & On,Cartoon,https://open.spotify.com/track/0NB5HROxc8dDBXovr7Xx9z
+9,Invincible,Invincible,DEAF KEV,https://open.spotify.com/track/0XhP2e3Dq7R1TmzXgkuULF
+10,Sky High,Sky High,Elektronomia,https://open.spotify.com/track/3iL1XK0X0G6RNdMl24pS4f
+11,Nekozilla,NCS: Infinity,Different Heaven,https://open.spotify.com/track/1NqGZ0oHeEk6HIsyCGqD2F
+12,Firefly,Firefly,Jim Yosef,https://open.spotify.com/track/6dgWgVy98xkd9rAplmTnFP
+13,Hope (Original Mix),Hope,Tobu,https://open.spotify.com/track/4bJ4zAqE6R5rWjM0K8SxZp
+14,Bhoot Bhoot,Bhoot,Bappi Lahiri,https://open.spotify.com/track/0ngB6myg1xMVR5z6hJg88Q
+15,Aayega Aanewala,Mahal,Lata Mangeshkar,https://open.spotify.com/track/4lYuEZVbI1s1UVQeXq6MnO
+16,Khamoshiyan,Khamoshiyan,Arijit Singh,https://open.spotify.com/track/3rJ0v8dKQ2uZ2jH7OQJ5nm
+17,Aapke Haseen Rukh,Adalat,Mohd. Rafi,https://open.spotify.com/track/0tAxQhN8SZtAPQjxYYx7Nn
+18,Bheege Honth Tere,Murder,Kunal Ganjawala,https://open.spotify.com/track/5hm4rjFrVgJ2YeFrt9vKFe
+19,Mar Jaayen,Mar Jaayen,Atif Aslam,https://open.spotify.com/track/4Qtb8QhmxtwIcmUw0abXH2
+20,Zaroori Tha,Zaroori Tha,Rahat Fateh Ali Khan,https://open.spotify.com/track/2v8GXlF13d37dKKD3yj3bn
+21,Sunn Raha Hai (Male),Aashiqui 2,Ankit Tiwari,https://open.spotify.com/track/2pWb4pK9GAVYJUn5Hj08jQ
+22,Tum Hi Ho,Aashiqui 2,Arijit Singh,https://open.spotify.com/track/1oT3CzGZsaaH0jdyvTQ2cX
+23,Maula Mere Maula,Anwar,Roop Kumar Rathod,https://open.spotify.com/track/4aZqTR6eEl3cA5EDZc0NwQ

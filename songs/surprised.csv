@@ -1,51 +1,61 @@
-,Name,Album,Artist
-0,good 4 u,SOUR,Olivia Rodrigo
-1,Todo De Ti,Todo De Ti,Rauw Alejandro
-2,MONTERO (Call Me By Your Name),MONTERO (Call Me By Your Name),Lil Nas X
-3,Yonaguni,Yonaguni,Bad Bunny
-4,Kiss Me More (feat. SZA),Kiss Me More (feat. SZA),Doja Cat
-5,Beggin',Chosen,Måneskin
-6,deja vu,SOUR,Olivia Rodrigo
-7,Butter,"Butter (Hotter, Sweeter, Cooler)",BTS
-8,Levitating (feat. DaBaby),Future Nostalgia,Dua Lipa
-9,Peaches (feat. Daniel Caesar & Giveon),Justice,Justin Bieber
-10,I WANNA BE YOUR SLAVE,Teatro d'ira - Vol. I,Måneskin
-11,traitor,SOUR,Olivia Rodrigo
-12,Qué Más Pues?,Qué Más Pues?,J Balvin
-13,happier,SOUR,Olivia Rodrigo
-14,Save Your Tears (with Ariana Grande) (Remix),Save Your Tears (Remix),The Weeknd
-15,drivers license,SOUR,Olivia Rodrigo
-16,Astronaut In The Ocean,Astronaut In The Ocean (International Remixes),Masked Wolf
-17,Leave The Door Open,Leave The Door Open,Bruno Mars
-18,favorite crime,SOUR,Olivia Rodrigo
-19,RAPSTAR,Hall of Fame,Polo G
-20,Pareja Del Año,Pareja Del Año,Sebastian Yatra
-21,Build a Bitch,Build a Bitch,Bella Poarch
-22,Blinding Lights,After Hours,The Weeknd
-23,Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit],Riton
-24,ZITTI E BUONI,Teatro d'ira - Vol. I,Måneskin
-25,brutal,SOUR,Olivia Rodrigo
-26,"jealousy, jealousy",SOUR,Olivia Rodrigo
-27,AM,AM,Nio Garcia
-28,Dynamite,BE,BTS
-29,DÁKITI,EL ÚLTIMO TOUR DEL MUNDO,Bad Bunny
-30,Dinero,Dinero,Trinidad Cardona
-31,Watermelon Sugar,Fine Line,Harry Styles
-32,Fiel - Remix,Fiel (Remix),Wisin
-33,Heat Waves,Dreamland (+ Bonus Levels),Glass Animals
-34,Beautiful Mistakes (feat. Megan Thee Stallion),JORDI (Deluxe),Maroon 5
-35,Heartbreak Anniversary,TAKE TIME,Giveon
-36,Fiel,Los Legendarios 001,Los Legendarios
-37,2/Catorce,2/Catorce,Rauw Alejandro
-38,The Business,The Business,Tiësto
-39,telepatía,Sin Miedo (del Amor y Otros Demonios) ∞,Kali Uchis
-40,Mood (feat. iann dior),El Dorado,24kGoldn
-41,Save Your Tears,After Hours,The Weeknd
-42,Rasputin,Rasputin,Majestic
-43,Your Love (9PM),Your Love (9PM),ATB
-44,Wants and Needs (feat. Lil Baby),Scary Hours 2,Drake
-45,enough for you,SOUR,Olivia Rodrigo
-46,Botella Tras Botella,Botella Tras Botella,Gera MX
-47,EL MAKINON,KG0516,KAROL G
-48,Lost Cause,Lost Cause,Billie Eilish
-49,Miénteme,Miénteme,TINI
+ID,Name,Album,Artist,Link
+0,good 4 u,SOUR,Olivia Rodrigo,https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG
+1,Todo De Ti,Todo De Ti,Rauw Alejandro,https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH
+2,MONTERO (Call Me By Your Name),MONTERO (Call Me By Your Name),Lil Nas X,https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd
+3,Yonaguni,Yonaguni,Bad Bunny,https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI
+4,Kiss Me More (feat. SZA),Kiss Me More (feat. SZA),Doja Cat,https://open.spotify.com/track/748mdHapucXQri7IAO8yFK
+5,Beggin',Chosen,Måneskin,https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e
+6,deja vu,SOUR,Olivia Rodrigo,https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr
+7,Butter,"Butter (Hotter, Sweeter, Cooler)",BTS,https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN
+8,Levitating (feat. DaBaby),Future Nostalgia,Dua Lipa,https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9
+9,Peaches (feat. Daniel Caesar & Giveon),Justice,Justin Bieber,https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI
+10,I WANNA BE YOUR SLAVE,Teatro d'ira - Vol. I,Måneskin,https://open.spotify.com/track/2XjFMQ6qFspQvdhfQeGc0G
+11,traitor,SOUR,Olivia Rodrigo,https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH
+12,Qué Más Pues?,Qué Más Pues?,J Balvin,https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN
+13,happier,SOUR,Olivia Rodrigo,https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P
+14,Save Your Tears (with Ariana Grande) (Remix),Save Your Tears (Remix),The Weeknd,https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy
+15,drivers license,SOUR,Olivia Rodrigo,https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH
+16,Astronaut In The Ocean,Astronaut In The Ocean (International Remixes),Masked Wolf,https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277
+17,Leave The Door Open,Leave The Door Open,Bruno Mars,https://open.spotify.com/track/1lHWpbkLQykkH0OSYQ7AtE
+18,favorite crime,SOUR,Olivia Rodrigo,https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH
+19,RAPSTAR,Hall of Fame,Polo G,https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli
+20,Pareja Del Año,Pareja Del Año,Sebastian Yatra,https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN
+21,Build a Bitch,Build a Bitch,Bella Poarch,https://open.spotify.com/track/3Xjfm0mO4tUdnT2m0xlD7K
+22,Blinding Lights,After Hours,The Weeknd,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b
+23,Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit],Riton,https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI
+24,ZITTI E BUONI,Teatro d'ira - Vol. I,Måneskin,https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN
+25,brutal,SOUR,Olivia Rodrigo,https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr
+26,"jealousy, jealousy",SOUR,Olivia Rodrigo,https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI
+27,AM,AM,Nio Garcia,https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN
+28,Dynamite,BE,BTS,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b
+29,DÁKITI,EL ÚLTIMO TOUR DEL MUNDO,Bad Bunny,https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH
+30,Dinero,Dinero,Trinidad Cardona,https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN
+31,Watermelon Sugar,Fine Line,Harry Styles,https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH
+32,Fiel - Remix,Fiel (Remix),Wisin,https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN
+33,Heat Waves,Dreamland (+ Bonus Levels),Glass Animals,https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx
+34,Beautiful Mistakes (feat. Megan Thee Stallion),JORDI (Deluxe),Maroon 5,https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN
+35,Heartbreak Anniversary,TAKE TIME,Giveon,https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277
+36,Fiel,Los Legendarios 001,Los Legendarios,https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN
+37,2/Catorce,2/Catorce,Rauw Alejandro,https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN
+38,The Business,The Business,Tiësto,https://open.spotify.com/track/2XjFMQ6qFspQvdhfQeGc0G
+39,telepatía,Sin Miedo (del Amor y Otros Demonios) ∞,Kali Uchis,https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN
+40,Mood (feat. iann dior),El Dorado,24kGoldn,https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m
+41,Save Your Tears,After Hours,The Weeknd,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b
+42,Rasputin,Rasputin,Majestic,https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN
+43,Your Love (9PM),Your Love (9PM),ATB,https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN
+44,Wants and Needs (feat. Lil Baby),Scary Hours 2,Drake,https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN
+45,enough for you,SOUR,Olivia Rodrigo,https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH
+46,Botella Tras Botella,Botella Tras Botella,Gera MX,https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN
+47,EL MAKINON,KG0516,KAROL G,https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN
+48,Lost Cause,Lost Cause,Billie Eilish,https://open.spotify.com/track/3rfhI3x31XyD2YTFdYpCzP
+49,Miénteme,Miénteme,TINI,https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN
+50,What Jhumka?,Rocky Aur Rani Kii Prem Kahaani,Arijit Singh,https://open.spotify.com/track/0jU4M5a5wj7z5TtF7iXK2t
+51,Naatu Naatu,RRR,Rahul Sipligunj & Kaala Bhairava,https://open.spotify.com/track/5rJ7tVfSjmrPzj9aOYd5KZ
+52,Tum Tum,Enemy,Vivek–Mervin,https://open.spotify.com/track/0z1xCMREi04aZK0uETgCcA
+53,Param Sundari,Mimi,Shreya Ghoshal,https://open.spotify.com/track/4XqFP9v5KVaVgzdKk5qbyV
+54,Apna Bana Le,Bhediya,Arijit Singh,https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn
+55,Firecracker,Jayeshbhai Jordaar,Vishal Dadlani & Sheykhar Ravjiani,https://open.spotify.com/track/6hzXJjQ0XwJ8o1RfA0z3LV
+56,Main Khiladi,Selfiee,Udit Narayan & Abhijeet Bhattacharya,https://open.spotify.com/track/2dF2yNMQFRuURuYyODsvG9
+57,Tere Pyaar Mein,Tu Jhoothi Main Makkaar,Arijit Singh,https://open.spotify.com/track/0DqF8nnS5ckDI9XpN0IUzH
+58,Coka 2.0,Liger,Sukh-E & Lisa Mishra,https://open.spotify.com/track/0KItktD8hS6kplf4Dkb2Fp
+59,Kala Chashma,Baar Baar Dekho,Amar Arshi & Neha Kakkar,https://open.spotify.com/track/6fBd0DjM16I0P3gH49heA6

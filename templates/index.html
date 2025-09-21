@@ -34,7 +34,7 @@
     <div>
 
       <h1 align="center" style="
-        font-family: 'Bigelow Rules';
+        font-family: 'Bigelow Rules';p
         font-size: 72px;
         color:rgb(202, 72, 12);">
         Mood Music Recommender
@@ -55,7 +55,7 @@
     <h2 align="center" style="
       font-family: 'Bigelow Rules';
       font-size: 36px;
-      color: #0ccac4;">Emotion Detector
+      color:rgb(25, 12, 202);">Emotion Detector
     </h2>
 
     <div style="
@@ -81,7 +81,7 @@
         <h2 align="center" style="
           font-family: 'Bigelow Rules';
           font-size: 36px;
-          color: #0ccac4;">Song Recommendations
+          color:rgb(53, 12, 202);">Song Recommendations
         </h2>
       
      </div>
@@ -116,23 +116,49 @@
     function CreateHtmlTable(data) {
       //Clear result div
       $("#ResultArea").html("");
-      //Crate table html tag
+      //Create table html tag
       var table = $("<table class = 'table table-striped table-light table-bordered table-hover table-sm table-responsive' id=DynamicTable></table>").appendTo("#ResultArea");
       //Create table header row
-      var rowHeader = 
-      $("<tr></tr>").appendTo(table);
+      var rowHeader = $("<tr></tr>").appendTo(table);
       $("<td></td>").text("Name").appendTo(rowHeader);
-      $("<td></td").text("Album").appendTo(rowHeader);
-      $("<td></td>").text("Artist").appendTo(rowHeader)
+      $("<td></td>").text("Album").appendTo(rowHeader);
+      $("<td></td>").text("Artist").appendTo(rowHeader);
+      $("<td></td>").text("Listen").appendTo(rowHeader);
+      
       //Get JSON data by calling action method in controller
       $.each(data, function (i, value) {
-
+          console.log("Processing song:", value.Name, "Link:", value.Link);
           //Create new row for each record
-          var row = 
-          $("<tr></tr>").appendTo(table);
+          var row = $("<tr></tr>").appendTo(table);
           $("<td></td>").text(value.Name).appendTo(row);
           $("<td></td>").text(value.Album).appendTo(row);
           $("<td></td>").text(value.Artist).appendTo(row);
+          
+          //Create clickable link
+          var linkCell = $("<td></td>").appendTo(row);
+          if (value.Link && value.Link.trim() !== '') {
+              console.log("Creating link for:", value.Name, "URL:", value.Link);
+              var link = $("<a></a>")
+                  .attr("href", value.Link)
+                  .attr("target", "_blank")
+                  .attr("rel", "noopener noreferrer")
+                  .text("🎵 Play")
+                  .css({
+                      "color": "#0ccac4",
+                      "text-decoration": "none",
+                      "font-weight": "bold",
+                      "padding": "5px 10px",
+                      "border": "1px solid #0ccac4",
+                      "border-radius": "5px",
+                      "display": "inline-block",
+                      "background-color": "transparent",
+                      "cursor": "pointer"
+                  });
+              linkCell.append(link);
+          } else {
+              console.log("No link for:", value.Name);
+              linkCell.text("No Link");
+          }
       });
     }
 
